@@ -9,7 +9,7 @@
       "value": "Password@123"
     },
     "dnsLabelPrefix": {
-      "value": "simple-vmgbaz400-3e6016c578"
+      "value": "simple-vm45-3e6016c578"
     },
     "publicIpName": {
       "value": "simple-vm-ip"
@@ -30,7 +30,7 @@
       "value": "eastus"
     },
     "vmName": {
-      "value": "simple-vmgbaz400"
+      "value": "simple-vm45"
     }
   }
 }
